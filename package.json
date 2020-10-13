@@ -1,0 +1,30 @@
+{
+  "name": "webdriver-io-performance--error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikrivorot/webdriver-io-performance--error.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikrivorot/webdriver-io-performance--error/issues"
+  },
+  "homepage": "https://github.com/mikrivorot/webdriver-io-performance--error#readme",
+  "devDependencies": {
+    "@wdio/devtools-service": "^6.3.7",
+    "@wdio/cli": "^6.6.3",
+    "@wdio/local-runner": "^6.6.3",
+    "@wdio/mocha-framework": "^6.6.3",
+    "@wdio/spec-reporter": "^6.6.3",
+    "@wdio/sync": "^6.6.0",
+    "chromedriver": "^86.0.0",
+    "wdio-chromedriver-service": "^6.0.4"
+  }
+}
